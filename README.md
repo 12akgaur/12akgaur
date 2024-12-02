@@ -24,9 +24,6 @@ Hi there! 👋 I'm **Akash Gaur**, a passionate **Software Developer** with a lo
 ---
 
 
-
----
-
 ## 🛠️ Skills & Technologies
 
 #### Languages
@@ -42,7 +39,7 @@ Hi there! 👋 I'm **Akash Gaur**, a passionate **Software Developer** with a lo
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
 </p>
 
-#### AI/ML Libraries
+#### AI/ML Libraries 
 <p>
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
@@ -74,12 +71,13 @@ Hi there! 👋 I'm **Akash Gaur**, a passionate **Software Developer** with a lo
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=12akgaur&show_icons=true&locale=en&theme=radical" alt="12akgaur GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=12akgaur&theme=radical" alt="12akgaur Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=12akgaur&show_icons=true&locale=en&layout=compact&theme=radical" alt="12akgaur Top Languages" />
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=12akgaur&show_icons=true&locale=en&layout=compact&theme=radical" alt="12akgaur Top Languages" /></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=12akgaur&theme=radical" alt="12akgaur Streak Stats" /> </p>
+
 
 
 
